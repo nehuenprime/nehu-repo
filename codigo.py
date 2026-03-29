@@ -1,4 +1,4 @@
-nombre = "Nehuen Benjamin"
+nombre = "Nehuencito"
 apellido = "Boneo"
 
 saludo = "hola "+ nombre + " " + apellido + " ¿Como Estas?"
